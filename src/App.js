@@ -1,7 +1,6 @@
 import React from "react";
 import CardList from "./CardList";
 import 'tachyons'
-// import { robots } from "./robot";
 import "./App.css";
 import SearchBox from "./SearchBox";
 import Scroll from './Scroll';
